@@ -1,7 +1,6 @@
 import React from 'react'
 import PureRenderMixin from 'react-addons-pure-render-mixin'
 import { Link, hashHistory } from 'react-router'
-
 import SearchInput from '../SearchInput'
 
 import './style.less'
@@ -22,7 +21,9 @@ class HomeHeader extends React.Component {
                     </Link>
                 </div>
                 <div className="home-header-right float-right">
-                    <i className="icon-user"></i>
+                    <Link to='/Login'>
+                      <i className="icon-user"></i>
+                    </Link>
                 </div>
                 <div className="home-header-middle">
                     <div className="search-container">
