@@ -100,7 +100,7 @@ README.md
 [2]:http://redux.js.org/
 
 [4]:https://github.com/Magiccwl/dzdp-react
-[5]:http://www.magiccwl.com:4000
+[5]:http://47.94.201.62:4000/
 [6]:https://github.com/Magiccwl/dzdp-react/tree/main_page_dzdp
 [7]:https://github.com/Magiccwl/dzdp-react/tree/city_page_dzdp
 [8]:https://github.com/Magiccwl/dzdp-react/tree/search_page_dzdp
